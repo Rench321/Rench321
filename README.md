@@ -22,6 +22,6 @@ I've also worked on parsers, automation tools, Telegram bots, browser extensions
 
 I'm currently looking for **full-time, part-time or contract/freelance software development work**.
 
-📫 **[ursa53040@gmail.com](mailto:ursa53040@gmail.com)**
+📫 [ursa53040@gmail.com](mailto:ursa53040@gmail.com)
 
-Telegram: @ursaworks
+Telegram: [@ursaworks](https://t.me/ursaworks)
